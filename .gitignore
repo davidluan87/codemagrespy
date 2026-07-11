@@ -1,3 +1,4 @@
 *.bak
+*.bak*
 auv-vsl1-pv2.html
 .DS_Store
